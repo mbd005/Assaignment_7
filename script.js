@@ -24,3 +24,9 @@ while (i>0) {
     i--;
 }
 
+// function 
+function helloWorld() {
+    return "Hello World"
+};
+
+console.log(helloWorld());
